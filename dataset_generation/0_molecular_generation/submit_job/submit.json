@@ -1,0 +1,12 @@
+{
+	"Token":"0u8h_WIlrRb4Cl3BJXrW_w",
+	"readable_name": "crnn_sample", 
+        "business_flag": "1drug",
+        "model_local_file_path": "/apdcephfs/private_xujunzhang/crnn/submit_job",
+        "host_num": 1,
+        "host_gpu_num":1,
+	"GPUName": "V100",
+        "image_full_name": "mirrors.tencent.com/ai_scoring_function/dgl_env:v1.1"
+}
+
+
